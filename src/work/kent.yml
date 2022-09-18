@@ -1,0 +1,21 @@
+name: Kent Relocation Group
+location: Melbourne, Australia
+description: Removals Company
+position: Software Developer
+startDate: '2021-08-01'
+endDate: ''
+summary: Developing and maintaining well-tested features in .NET website UIs and APIs
+highlights:
+- Designing and developing interactive web components in Blazor for critical operational business processes
+to replace an aging commercial off-the-shelf ERP with a new Operational Platform
+written in .NET 6.0
+- "Implementing real-time elastic metrics dashboards with APM to monitor user interactions
+        Analysed bottlenecks in transactions reduce to user load times by up to 50%
+        Identifying user experienced exceptions and eliminate over 95%
+errors experienced in production systems before end-users reported bugs"
+- Mentored and assisted new software engineers through their onboarding process
+- Developing Robotic Process Automations in UiPath with OCR to automate data entry
+        Reduced existing processes' execution times by up to 40%
+- Maintaining and extending internal android applications developed in Xamarin framework
+- Employed constraint optimisation techniques for a Warehouse Management System
+        With Google's OR-Tools package, implemented solvers for scheduling container movements and determining optimal container location placements
